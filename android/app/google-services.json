@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537433535885",
+    "project_id": "flutter-absen-995a4",
+    "storage_bucket": "flutter-absen-995a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537433535885:android:65db5085a759de797039c4",
+        "android_client_info": {
+          "package_name": "com.tomiprasetyo.flutter_absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537433535885-7oljd029dlighv0cq3i0qs247cqkt2ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENVWMqB3e4AV1h0VedFv2pkFRsMYd_6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537433535885-7oljd029dlighv0cq3i0qs247cqkt2ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

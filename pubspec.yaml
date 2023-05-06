@@ -1,0 +1,38 @@
+name: flutter_absen
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.5.0
+  firebase_storage: ^11.1.0
+  image_picker: 0.8.7+1
+  convex_bottom_bar: 3.2.0
+  intl: 0.17.0
+  geolocator: 9.0.2
+  geocoding: 2.1.0
+  syncfusion_flutter_datepicker: 21.1.41
+  flutter: 
+    sdk: flutter
+  dynamic_color: ^1.6.3
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon_launcher.png"
+
+flutter: 
+  uses-material-design: true
+
