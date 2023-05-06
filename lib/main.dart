@@ -23,6 +23,7 @@ void main() async {
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
             return const MaterialApp(
+              debugShowCheckedModeBanner: false,
               home: Scaffold(
                 body: Center(
                   child: CircularProgressIndicator(),
@@ -32,8 +33,10 @@ void main() async {
           }
 
           return GetMaterialApp(
+            debugShowCheckedModeBanner: false,
             theme: ThemeData(
               useMaterial3: true,
+              colorSchemeSeed: Colors.green
             ),
             title: "Application",
             // Login View ketika pertama kali mengakses aplikasi

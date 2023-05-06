@@ -13,3 +13,15 @@ Pastinya, ini menjadi hal yang wajib dilakukan. Sebab, berkembang atau tidaknya 
 
 # Screenshot Aplikasi
 
+![Login](/screenshots/login.png)
+![Forget Password](/screenshots/forget_password.png)
+![Home Screen](/screenshots/home_screen.png)
+![Presence Validation](/screenshots/presence_validation.png)
+![Presence Details](/screenshots/presence_details.png)
+![All Presence](/screenshots/all_presences.png)
+![Date Filtering](/screenshots/date_filtering.png)
+![Profile](/screenshots/profile.png)
+![Update Profile](/screenshots/update_profile.png)
+![Update Password](/screenshots/update_password.png)
+![Add Employee](/screenshots/add_employee.png)
+
